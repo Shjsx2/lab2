@@ -28,7 +28,7 @@ body {
 
 .jumbotron:after {
      content:"";
-     background: url("http://lorempixel.com/1140/283");
+     background-image: url("../images/lorempixel.city.1.jpeg");
      opacity: 0.2;
      top: 0;
      left: 0;
